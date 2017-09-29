@@ -60,7 +60,7 @@ namespace TechJobsConsole
 
                     List<Dictionary<string, string>> searchResults;
 
-                    // NARROW RESULTS INDEXING
+                    // NARROWGIT  RESULTS INDEXING
                     if (columnChoices.ContainsKey(columnChoice))
                     {
                         searchResults = JobData.FindByValue(searchTerm);
