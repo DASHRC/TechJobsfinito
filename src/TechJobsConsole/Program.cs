@@ -50,8 +50,8 @@ namespace TechJobsConsole
                         }
                     }
                 }
-                else 
-                {)
+                else
+                {  
                     string columnChoice = GetUserSelection("Search", columnChoices);
 
                    
